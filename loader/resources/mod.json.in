@@ -6,11 +6,11 @@
         "android": "*",
         "ios": "*"
     },
-    "id": "geode.loader",
+    "id": "sapphire.loader",
     "version": "@PROJECT_VERSION@@PROJECT_VERSION_SUFFIX@",
-    "name": "Geode",
-    "developer": "Geode Team",
-    "description": "The Geode mod loader",
+    "name": "Sapphire",
+    "developer": "Sapphire Team",
+    "description": "The Sapphire mod loader",
     "links": {
         "community": "https://discord.com/invite/9e43WMKzhp",
         "homepage": "https://geode-sdk.org",
